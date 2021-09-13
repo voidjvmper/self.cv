@@ -64,7 +64,7 @@ _Prototyped or finished over 20 different games, and over 45 practical assignmen
 
 * (2015–2021) Bachelors of Science in Creative Media & Game Technologies 
 	* Minor in Procedural Generation
-* (2010–2014) 1High School diploma in Information Technology 
+* (2010–2014) High School diploma in Information Technology 
 
 ## Extra-curricular:
 
