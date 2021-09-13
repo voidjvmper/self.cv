@@ -21,28 +21,28 @@ _Prototyped or finished over 20 different games, and over 45 practical assignmen
 
 ## Experience:
 
-**(2019) Internship at GameLab Oost—Programmer, Team Leader**
+*(2019)* **Internship at GameLab Oost—Programmer, Team Leader**
 
 * Developed an internal project for the company over 6 months.
 * Heavily influenced design & concept of final application & puzzles therein
 * Led a team of three MBO-level programmers working on the gameplay features
 
-**(2020) Venice: Tides to Come—Leader Programmer, Designer, Writer**
+*(2020)* **Venice: Tides to Come—Leader Programmer, Designer, Writer**
 
 * Lead programmer on a 6 month long project; in charge of code integrity
 * Developed a dual FPS & VR experience for an exploratory game focusing on the United Nations Sustainable Development Goal #13: Climate Action
 * Created the vast majority of gameplay code & frameworks. Also took part in the game's design, UI, audio, and trailers.
 
-**(2021) Kwekerij—Programmer**
+*(2021)* **Kwekerij—Programmer**
 * Developed crop planting rotation tool for new urban farmers
 * Worked with Genetic Algorithms to find optimal solutions over thousands of generations
 
-**(2017) Hooked—Programmer, Designer**
+*(2017)* **Hooked—Programmer, Designer**
 * Worked on a fishing game to teach children about sonar & ocean pollution
 * Created language-less experience, scaling experience for an audience of children of different mother tongues, age, and skill levels
 * Game was installed and playable on installations at the Oyfo Techniekmuseum
 
-**(2016) Nuclear Rangers—Programmer, Designer**
+*(2016)* **Nuclear Rangers—Programmer, Designer**
 * Designed and programmed a vehicle-based sports game
 * Held centre place at university’s public arcade machine
 * Released a balance patch 5 years after the game came out rebalancing classes, cutting file size, fixing bugs, and restoring lost features.
@@ -62,9 +62,9 @@ _Prototyped or finished over 20 different games, and over 45 practical assignmen
 
 ## Education
 
-* (2015–2021) Bachelors of Science in Creative Media & Game Technologies 
-	* Minor in Procedural Generation
-* (2010–2014) High School diploma in Information Technology 
+* *(2015–2021)* **Bachelors of Science in Creative Media & Game Technologies**
+	* *Minor in Procedural Generation*
+* *(2010–2014)* **High School diploma in Information Technology**
 
 ## Extra-curricular:
 
