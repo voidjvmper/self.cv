@@ -7,7 +7,7 @@ A publicly available selection of public-safe CVs.
 * .pdf
 
 # Software Developer, Gameplay Programmer, Designer, Writer
-_Cirriculum Vitae / Résumé_
+_Curriculum Vitae / Résumé_
 
 ### Josh van Asten
 ### Enschede, the Netherlands
