@@ -1,6 +1,11 @@
 # self.cv
 A publicly available selection of public-safe CVs.
 
+*Available as:*
+* plaintext (.txt)
+* Markdown (.md)
+* .pdf
+
 # Software Developer, Gameplay Programmer, Designer, Writer
 _Cirriculum Vitae / Résumé_
 
