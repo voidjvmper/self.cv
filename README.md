@@ -6,6 +6,8 @@ A publicly available selection of public-safe CVs.
 * Markdown (.md)
 * .pdf
 
+---
+
 # Software Developer, Gameplay Programmer, Designer, Writer
 _Curriculum Vitae / Résumé_
 
