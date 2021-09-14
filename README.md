@@ -75,6 +75,8 @@ _Prototyped or finished over 20 different games, and over 45 practical assignmen
 
 * Global Game Jams 2016, 2017, 2018, 2020
 
+* Garage2020/SamenToekomstMaken national Hackathon against child abuse, 2019
+
 ### Groups:
 
 * UNICEF [Student Team Enschede](https://www.linkedin.com/company/unicef-student-team-enschede/?originalSubdomain=nl)
